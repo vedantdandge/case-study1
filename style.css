@@ -1,0 +1,31 @@
+#heading{
+    background-color: blue;
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#mobilnet{
+    color: darkred;
+}
+
+#vs{
+    background-color: deeppink;
+    color: gainsboro;
+}
+
+#google_lens{
+    color: chocolate;
+}
+
+#objects{
+    background-color: mediumseagreen;
+    box-shadow: 5px 5px 18px crimson;
+    margin: 10px;
+}
+
+#accurate{
+    border-radius: 15px;
+    color: darkmagenta;
+    background-color: turquoise;
+}
